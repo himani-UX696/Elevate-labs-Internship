@@ -1,0 +1,4 @@
+I selected a teal green as a primary color which I have used for the button CTAs. Then I used  a lighter shade of teal green for the background ensuring proper contrast and visibility. The font style is poppins which is modern, elegant and provides enough readability. I have chosen different weights for this font for example semibold, medium, regular ensuring visual hierarchy and it become easy to scan the content of the screen based upon its importance. 
+
+Project link: 
+https://www.figma.com/proto/utpbt15BMmTRyLW4EELbOP/Elevate-labs?node-id=1-36&t=n7nk5cIhfF3UdH0K-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A36 
