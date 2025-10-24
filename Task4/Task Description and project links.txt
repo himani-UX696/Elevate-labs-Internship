@@ -1,0 +1,21 @@
+Problems identified:
+1. Lack of alignment and consistent spacing: Uneven section placement and irregular spacing led to a cluttered and unbalanced layout.
+2. Outdated & Low-Quality Images: The visuals lacked appeal and did not reflect the brand’s quality, reducing user engagement.
+3. Weak  and insignificant Visual Hierarchy: Key information did not stand out, making navigation and content scanning difficult for users.
+4. Ineffective Use of Negative Space: While spacing lacked intent. Equal gaps between all elements made it hard to distinguish related content and weakened hierarchy.
+5. Limited Product Discovery and customization: The absence of search, filter, and sorting options restricted users from easily finding or refining products, reducing browsing convenience.
+
+
+Solutions opted:
+1. Consistent Layout: Ensured proper alignment and spacing for a balanced design.
+2. Meaningful Content Structure: Organized text and visuals to create clear relationships between elements.
+3. Improved Visual Hierarchy:  Applied optimal colors and typography to highlight key information.
+4. Better Product Discovery: Added customization like search bar, my location, profile, and few filter options.
+5. Thoughtful Homepage Flow:  Re-arranged sections to guide users smoothly and highlight important content.
+
+
+Mobile prototype link:
+https://www.figma.com/proto/TimOMVvX2fzBTkyycwQzWD/Monginis-app-redesigned?node-id=405-1338&t=yqRkkOiRFMRm0kJB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=189%3A245
+
+Desktop prototype link:
+https://www.figma.com/proto/TimOMVvX2fzBTkyycwQzWD/Monginis-app-redesigned?node-id=312-782&t=eDEuQBVJPFFnZAqB-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=189%3A245
