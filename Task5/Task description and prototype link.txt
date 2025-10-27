@@ -1,0 +1,5 @@
+I created a fitness tracker app, the very first is the design screen, on clicking login button, user will be directed to the homepage that shows daily overview, workout and nutrition goals, in nav bar, when I click the workout section, a new page will open which shows the list of available workouts, their type and duration,similarly, on clicking progress section in nav bar, user will move to the new page which shows all the progress user has made so far and some important stats. Apart from that, there is a back button on both the screens, which when clicked bring the user back to the home page.
+
+Prototype lick:
+
+https://www.figma.com/proto/utpbt15BMmTRyLW4EELbOP/Elevate-labs?node-id=40-456&t=CBeNEL6ub8WBm23U-1&scaling=scale-down&content-scaling=fixed&page-id=30%3A24
